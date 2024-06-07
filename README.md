@@ -9,4 +9,6 @@ https://github.com/codespaces/
 
 このjupyter notebookってやつを開いてください
 
-#
+#こんな感じクローンして使ってね
+
+<img width="1045" alt="Screenshot 2024-06-07 at 14 28 23" src="https://github.com/taniguchitakara/keisu_suurijikken2/assets/93107062/559631c1-3a5d-4666-acbf-c4ac1f6685c9">
